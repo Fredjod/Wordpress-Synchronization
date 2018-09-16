@@ -1,5 +1,5 @@
 # Wordpress-Synchronization
-Script for synchronizing a Worpress server between a localhost and a server hosted over the Internet.
+Script for synchronizing a Worpress site between a localhost and a server hosted over the Internet.
 
 # Problem
 It's very painfull to create or update a Wordpress website when you have a low internet bandwith. It takes a while to load images, videos and to edit the pages of a blog. And this is not possible at all when you have no connection...
