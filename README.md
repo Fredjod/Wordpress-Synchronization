@@ -5,7 +5,7 @@ Script for synchronizing a Worpress server between a localhost and a server host
 It's very painfull to create or update a Wordpress website when you have a low internet bandwith. It takes a while to load images, videos and to edit the pages of a blog. And this is not possible at all when you have no connection...
 
 # Solution
-Install Wordpress localy on your computer, and then load, edit and administrate your local wordpress. Because it's local (http://localhost/wordpress/), it's fast and never stalled due to a poor bandwith! When you are happy with your local wordpress, shoot a script that synchronizes your work with a wordpress server hosted over the Internet. When the script is over, your wordpress website is accessible to your public.
+Install Wordpress localy on your computer, and then load, edit and administrate your local wordpress. Because it's local (http://localhost/wordpress/), it's fast and it never stalls due to a poor bandwith! When you are happy with your local wordpress, shoot a script that synchronizes your work with a wordpress server hosted over the Internet. When the script is over, your wordpress website is accessible to your public.
 
 My first idea was to call this script by executing a Wordpress plugin on my localhost. I tested several plugins in the Wordpress catalog but they either didn't provide this function, or I had to pay it... Thus I decided to write this simple shell script. I run it on my Macbook. I didn't test it on Unix/Linux platform, but it should work also.
 
